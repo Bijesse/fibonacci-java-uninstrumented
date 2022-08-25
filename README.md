@@ -1,5 +1,5 @@
 # Sample Java Application with no Instrumentation Code
-This repository contains a simple Java application to calculate the nth number (between 1-90) in the Fibonacci sequence. It has no front end and runs locally in a terminal window. The built in load generaotr will generate and error every 4th attempt as it attempts to calculate a number outside of 1-90 on these attempts.
+This repository contains a simple Java application to calculate the nth number (between 1-90) in the Fibonacci sequence. It has no front end and runs locally in a terminal window. The built in load generator will generate and error every 4th attempt as it attempts to calculate a number outside of 1-90 on these attempts.
 
 
 This application has not been instrumented. For an instrumented version of the same application, see the following repositories:
